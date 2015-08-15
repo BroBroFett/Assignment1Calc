@@ -11,6 +11,7 @@
                     <asp:RadioButtonList ID="winLose1" runat="server">
                         <asp:ListItem Value ="Win" Text="Win"></asp:ListItem>
                         <asp:ListItem Value ="Lose" Text="Lose"></asp:ListItem>
+
                     </asp:RadioButtonList>
                     <asp:RequiredFieldValidator ID="RequiredFieldValidator16" runat="server" ControlToValidate="winLose1"  Display="None" ErrorMessage="Game 1 wins/loss must be filled"/>
                 </div>
