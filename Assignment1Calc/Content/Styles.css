@@ -1,0 +1,154 @@
+﻿html{
+    background-color: #96e4f2;
+}
+body {
+    background-color: #0c9fc4;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom:7%;
+    margin-top:2%;
+    font-size:14px;
+    font-family:Consolas;
+    box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    border-radius: 30px 30px 30px 30px;
+    -moz-border-radius: 30px 30px 30px 30px;
+    -webkit-border-radius: 30px 30px 30px 30px;
+    border: 7px solid #000000;
+
+}
+header{
+    padding-left:20%;
+    padding-right:20%;
+    text-align: center;
+    padding-bottom:2%;
+}
+footer{
+    clear:both; 
+    padding-left:20%;
+    padding-right:20%;
+    text-align: center;
+    padding-bottom:2%;
+}
+h3{
+    text-align: center;
+}
+.radioButton{
+    margin-left:35%;
+    font-size:large;
+}
+#submitButton{
+
+    padding-top:5%;
+    padding-bottom:2%;
+    padding-left:47%;
+   clear:both; 
+   position:center;
+
+}
+#game1{
+    border-radius: 100px 39px 100px 39px;
+    -moz-border-radius: 100px 39px 100px 39px;
+    -webkit-border-radius: 100px 39px 100px 39px;
+    border: 7px solid #000000;
+    background-color:#e7a61a;
+    box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    text-align: center;
+    float:left;
+	width:20%;
+	position:relative;
+	left:10%;
+    padding-top:2%;
+    padding-bottom:2%;
+	overflow:hidden;
+}
+#game2{
+border-radius: 100px 39px 100px 39px;
+    -moz-border-radius: 100px 39px 100px 39px;
+    -webkit-border-radius: 100px 39px 100px 39px;
+    border: 7px solid #000000;
+    background-color:#e7a61a;
+    box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    text-align: center;
+    float:left;
+	width:20%;
+	position:relative;
+	left:10%;
+    padding-top:2%;
+    padding-bottom:2%;
+	overflow:hidden;
+}
+#game3{
+    border-radius: 100px 39px 100px 39px;
+    -moz-border-radius: 100px 39px 100px 39px;
+    -webkit-border-radius: 100px 39px 100px 39px;
+    border: 7px solid #000000;
+    background-color:#e7a61a;
+    box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    text-align: center;
+    float:left;
+	width:20%;
+	position:relative;
+	left:10%;
+    padding-top:2%;
+    padding-bottom:2%;
+	overflow:hidden;
+}
+#game4{
+    border-radius: 100px 39px 100px 39px;
+    -moz-border-radius: 100px 39px 100px 39px;
+    -webkit-border-radius: 100px 39px 100px 39px;
+    border: 7px solid #000000;
+    background-color:#e7a61a;
+    box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -webkit-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    -moz-box-shadow: 9px 10px 25px 2px rgba(0,0,0,0.86);
+    text-align: center;
+    float:left;
+	width:20%;
+	position:relative;
+	left:10%;
+    padding-top:2%;
+    padding-bottom:2%;
+	overflow:hidden;
+}
+input[type=text]
+ { border-color:#cccccc; 
+   font-size:16px;
+    text-align:center; 
+    padding:2px; 
+    width: 50%;
+    border-width:2px; 
+    border-radius:20px; 
+    border-style:double; 
+    background-color:#e3edff;
+    font-weight:bold; 
+ } 
+
+label{
+    font-size:14px;
+    font-weight:bolder;
+}
+.submitButton {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
